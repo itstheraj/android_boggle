@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">WordFind6300</string>
+    <string-array name="sample_scores">
+        <item>score: 17, game: 11, word: xylophone</item>
+        <item>score: 15, game: 7, word: dressage</item>
+        <item>score: 13, game: 8, word: abeyance</item>
+        <item>score: 13, game: 4, word: quorum</item>
+        <item>score: 12, game: 9, word: beast</item>
+        <item>score: 12, game: 3, word: pestle</item>
+        <item>score: 11, game: 2, word: mortar</item>
+        <item>score: 11, game: 5, word: ribald</item>
+        <item>score: 9, game: 6, word: flash</item>
+        <item>score: 7, game: 1, word: leaf</item>
+        <item>score: 7, game: 10, word: tail</item>
+    </string-array>
+    <string-array name="alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Qu</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="wts">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
